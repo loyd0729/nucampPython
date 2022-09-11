@@ -1,5 +1,3 @@
-from codecs import charmap_decode
-
 
 wizard = "Wizard"
 elf = "Elf"
@@ -91,16 +89,4 @@ while True:
 
     
 
-    # character = elf
-    # my_damage = elf_damage
-    # dragon_hp = dragon_hp - my_damage
-    # print("The", character, "damaged the Dragon!")
-    # print("The Dragon's hitpoints are now:", dragon_hp)
-    # print("The Dragon strikes back at Wizard")
-    # my_hp = elf_hp
-    # my_hp = my_hp - dragon_damage
-    # print("The Wizard's hitpoints are now:", my_hp)
-    # dragon_hp = dragon_hp - my_damage
-    # print("The", character, "damaged the Dragon!")
-    # print("The Elf's hitpoints are now:", dragon_hp)
-    # break
+  
